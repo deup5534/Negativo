@@ -4,7 +4,7 @@ Console.Clear();
 
 System.Console.WriteLine("Seja bem vindo(a) ao exercício 'Negativo'!\n");
 
-Console.ForegroundColor = ConsoleColor.Gray;
+Console.ForegroundColor = ConsoleColor.Black;
 System.Console.WriteLine("aperte qualquer tecla para continuar...");
 Console.ReadKey();
 Console.ResetColor();
